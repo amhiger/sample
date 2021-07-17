@@ -2,7 +2,11 @@ h1{
   color: blue;
   text-align: center;
 }
-header{
-  width: 500px;
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
 }
   
